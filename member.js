@@ -7,3 +7,4 @@ function skillsMember() {
         }
     }
     return member;
+}
